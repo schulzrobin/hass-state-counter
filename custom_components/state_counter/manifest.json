@@ -1,0 +1,9 @@
+{
+  "domain": "state_counter",
+  "name": "State Counter",
+  "version": "1.0.0",
+  "documentation": "https://github.com/schulzrobin/hass-state-counter",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@schulzrobin"]
+}
